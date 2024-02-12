@@ -5,6 +5,7 @@ Hello there, let's get started with Git.
 * From adding code,  making changes committing the code to pushing the code and fetching it to and from the remote repository. 
 
 Branching: 
+
     1. One of the main aspect of git is branches. Here, we'll see how to create branches in git and how to switch between and compare different branches. 
 
     2. The act of switching between branches is called checkout. 
