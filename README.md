@@ -20,6 +20,32 @@ Branching:
 
 Git Commands: Here's a list of most frequently git commands. 
 
-    i. git clone "remote_repo link" - Clones a remote repository to the local machine. 
+    i. git clone "remote_repo link" - Clones a remote repository into the current directory 
+
+    ii. git checkout __branchname__ - Let's you checkout an existing branch
+
+    iii. git checkout -b branchname : Creates and checksout the branch
+
+    iv. git branch : Lists out all the branches
+
+    v. git add . : Adds all the files to the git index 
+
+    vi. git add filename1 filename2 : Adds multiple files to your index
+
+    vii. git  commit -m "Message goes here"
+
+    viii. git pull origins branchname: Pulls the latest changes from the remote branch
+
+    ix. git push origin branchname: Pushes branchname to the remote
+
+    x. git stash stashes your work away from your working environment. 
+
+    xii. git stash pop takes the added stash and adds into the working environment
+
+    xiii. git stash pop stashId takes a specific stash and adds it to your working environment
+
+    xiv. git stash list shows all your stashes
+
+    xv. git remote set-url origin https://gitgub.com/ USERNAME/REPOSITORY.git changes the remote URL of your Git system.
 
     
