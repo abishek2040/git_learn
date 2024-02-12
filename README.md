@@ -14,3 +14,10 @@ Branching:
 
     4. Here, we create a new branch, using the following command: git checkout -b New_branch:
     The -b creates the branch "New_branch" and checks it out - meaning switches to the New_branch. 
+
+
+Git Commands: Here's a list of most frequently git commands. 
+
+    i. git clone "remote_repo link" - Clones a remote repository to the local machine. 
+
+    
