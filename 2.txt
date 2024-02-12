@@ -1,1 +1,3 @@
 This text file is marked No: 2
+
+We add another new line here too. 
